@@ -1,34 +1,79 @@
 .main-nav {
-
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
 }
 
 .left-nav > ul,
 .right-nav > ul {
-
+    display: flex;
+    align-items: center;
 }
 
 .left-nav > ul > li {
+    color:$dark-gray;
+    font-family: Arial;
+	font-size: 16px;
+    font-weight: normal;
+    text-transform: normal;
 
 }
 
-.right-nav > ul > li {
-
+.left-nav > ul > li{
+    margin: 0px 15px;
 }
 
-.right-nav > ul > li:last-of-type {
-
+.left-nav > ul > li:hover{
+    background-color: $lightest-gray;
+    
 }
 
-.left-nav > ul > li:hover,
-.right-nav > ul > li:last-of-type:hover {
-
+.right-nav > ul > li{
+    margin: 0px 5px;
 }
 
-.left-nav span {
-
+.right-nav > ul > li > button{
+    background-color: $dark-blue;
+    color: white;
+    font-family: Arial;
+    font-size: 10px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 11px 12px 8px;
+    border: $dark-blue solid 1px;
+    border-radius: 3px;
 }
 
-
-.right-nav i {
-
+.right-nav > ul > li > button:hover{
+    background-color: $blue;
 }
+
+.language-nav {
+	position: absolute;
+	top: 15px;
+	left: calc(50% - (177.78px/2));
+	background: white;
+}
+
+.language-nav a {
+	margin: 0 5px;
+	text-transform: uppercase;
+	font-family: $sans-serif;
+	font-size: 10px;
+	color: black;
+}
+
+.language-nav ul {
+	display: flex;
+}
+
+.language-nav ul a:first-child{
+    font-weight: bold;
+}
+
+.language-nav ul a:last-child{
+    position: relative;
+    top: -3px;
+}
+
