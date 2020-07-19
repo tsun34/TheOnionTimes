@@ -1,0 +1,47 @@
+footer{
+    font-family: $libre-franklin;
+    font-size: 12px;
+    border-top: $gray double 3px;
+    display: flex;
+    flex-direction: column;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.footer-title{
+    width: 185px;
+    height: auto;
+}
+
+.footer-links{
+    display: flex;
+    flex-direction: row;
+    padding: 20px 5px;
+}
+
+.footer-internal-links{
+    flex-grow: 5;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer-external-links{
+    flex-grow: 1;
+    // padding-left: 100px;
+}
+
+
+.signature{
+    border-top: $light-gray solid 1px;
+    text-align: center;
+}
+
+.signature p{
+    color: $gray;
+    font-family: $libre-franklin;
+    font-size: 10px;
+    padding: 10px;
+}
