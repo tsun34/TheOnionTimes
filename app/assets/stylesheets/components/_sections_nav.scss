@@ -1,0 +1,117 @@
+.section-nav{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: -30px;
+    border-bottom: black double 4px;
+    padding: 5px 0px;
+}
+
+.story-highlight ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.story-highlight li{
+    flex-grow: 1;
+    flex-basis: 0;
+}
+
+.story-highlight li:hover{
+    opacity: 0.8;
+}
+
+.story-highlight a{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-right: $light-gray solid 1px;
+    padding: 10px;
+    font-family: $libre-franklin;
+    font-size: 12px;
+    
+}
+
+.story-highlight a img{
+    display: block;
+    max-width: 70px;
+    max-height: 70px;
+    width: 70px;
+    height: 70px;
+    padding: 0px 10px 0px 5px;
+    // margin: 5px;
+}
+
+.story-highlight a p{
+    color: $dark-gray
+}
+
+.stock, .weather{
+    width: 20%;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: lighter;
+}
+
+.stock{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-right: $light-gray solid 1px;
+}
+
+.stock li{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: $light-gray solid 1px;
+    padding: 6px 0px;
+}
+
+.stock li:last-child{
+    border-bottom: none;
+}
+
+.stock .stock-up{
+    color: green;
+}
+
+.stock .stock-down{
+    color: red;
+}
+
+.weather{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:5px;
+}
+
+.weather>span{
+    display: flex;
+    flex-direction: row;
+    padding: 5px 0px;
+}
+
+.weather i{
+    font-size: 30px;
+    color: $gray;
+    padding-right: 12px;
+}
+
+.weather .location{
+    font-size: 12px;
+    padding: 5px 0px;
+}
+
+.weather .current-temp{
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.weather .today-temps{
+    font-size: 10px;
+    color: $dark-gray
+}

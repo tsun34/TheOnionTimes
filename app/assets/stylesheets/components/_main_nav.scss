@@ -11,7 +11,7 @@
 }
 
 .left-nav > ul > li {
-    color:$dark-gray;
+    color: $dark-gray;
     font-family: Arial;
 	font-size: 16px;
     font-weight: normal;
@@ -20,12 +20,14 @@
 }
 
 .left-nav > ul > li{
+    padding: 7px;
     margin: 0px 15px;
+    border-radius: 5px;
 }
 
 .left-nav > ul > li:hover{
     background-color: $lightest-gray;
-    
+    cursor: pointer;
 }
 
 .right-nav > ul > li{
@@ -62,6 +64,11 @@
 	font-family: $sans-serif;
 	font-size: 10px;
 	color: black;
+}
+
+.language-nav a:hover{
+    text-decoration: underline;
+    cursor: pointer;
 }
 
 .language-nav ul {
