@@ -1,0 +1,139 @@
+.main-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.content-left{
+    border-right: 1px solid $gray;
+}
+
+.content-right{
+    padding-left: 20px;
+}
+
+.content-highlight{
+    padding: 10px;
+    border-bottom: 1px solid black;
+    display: flex;
+    flex-direction: row;
+}
+
+.content-highlight > section{
+    margin-right: 25px;
+}
+
+.content-highlight-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.content-highlight-brief{
+    color: $darkest-gray;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.content-highlight-img{
+    float: right;
+    width: 480px;
+    height: 320px;
+    object-fit: cover;
+}
+
+
+.content-opinion-title{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.opinion{
+    display: flex;
+}
+
+.opinion-highlight{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid $light-gray;
+}
+
+.opinion-highlight > div{
+    margin: 10px;
+}
+
+.opinion-highlight > img{
+    width: 175px;
+    height: 175px;
+    object-fit: cover;
+    margin: 10px;;
+}
+
+.opinion-category{
+    font-size: 16px;
+    font-weight: 500;
+    color: $gray;
+}
+
+.opinion-title{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.opinion-brief{
+    font-size: 14px;
+    color: $darkest-gray;
+}
+
+.opinion-img{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.opinion-left > section, .opinion-right > section{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    border-bottom: 1px solid $light-gray;
+}
+
+.opinion-left > section:last-child, .opinion-right > section:last-child{
+    border-bottom: none;
+}
+
+.opinion-left{
+    border-right: 1px solid $light-gray;
+}
+
+.editors-pick-highlight{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-top: 4px double black;
+    border-bottom: 1px solid $light-gray;
+}
+
+.editors-pick-highlight > img{
+    width: 380px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.editors-pick-highlight > hr{
+    width: 100px;
+    color: $light-gray;
+}
+
+.editors-pick-highlight-title{
+    font-size: 28px;
+    font-weight: 200;
+    margin: 10px 0 10px 0;
+}
+
+.editors-pick-highlight-brief{
+    font-size: 14px;
+    color: $dark-gray;
+    margin: 10px 0 10px 0;
+}
