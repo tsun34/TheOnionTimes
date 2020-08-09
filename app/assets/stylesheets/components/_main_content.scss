@@ -6,6 +6,8 @@
 
 .content-left{
     border-right: 1px solid $gray;
+    display: flex;
+    flex-direction: column;
 }
 
 .content-right{
@@ -136,4 +138,32 @@
     font-size: 14px;
     color: $dark-gray;
     margin: 10px 0 10px 0;
+}
+
+.ad{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.ad > div{
+    display: flex;
+    flex-direction: row;
+}
+
+.ad > hr{
+    color: $gray;
+    width: 100px;
+}
+
+.ad-title{
+    width: 40%;
+    font-size: 20px;
+}
+
+.ad-brief > img{
+    width: 300px;
+    height: 180px;
+    object-fit: cover;
+    
 }
