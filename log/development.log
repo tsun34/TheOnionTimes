@@ -4371,3 +4371,1423 @@ Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 13:10:14 -
 Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 13:10:14 -0700
 Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 13:10:14 -0700
 Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 13:10:14 -0700
+Started GET "/" for ::1 at 2020-08-09 21:35:00 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 13ms (Views: 11.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2020-08-09 21:35:00 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:35:00 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:35:00 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:35:00 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:35:00 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:35:00 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:35:00 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:35:00 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:35:00 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:35:00 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:35:00 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:35:01 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:35:01 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:35:01 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:35:01 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:35:01 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:35:01 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:35:01 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:35:01 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:35:01 -0700
+Started GET "/" for ::1 at 2020-08-09 21:35:24 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 13ms (Views: 12.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:35:24 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:35:24 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:35:25 -0700
+Started GET "/" for ::1 at 2020-08-09 21:35:43 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 18ms (Views: 17.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:35:43 -0700
+Started GET "/" for ::1 at 2020-08-09 21:36:40 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 18ms (Views: 17.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:36:40 -0700
+Started GET "/" for ::1 at 2020-08-09 21:39:05 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 86ms (Views: 85.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-da1f3e64d580ffba654109e1d9600c3cfda1589a081094b8fa7bce26108d35b9.css?body=1" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:39:05 -0700
+Started GET "/" for ::1 at 2020-08-09 21:40:31 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 82ms (Views: 81.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-cd3ede125270c1e62d615a06be681282389b2502d259cc612e0f11336c9de48e.css?body=1" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:40:31 -0700
+Started GET "/" for ::1 at 2020-08-09 21:42:22 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 87ms (Views: 86.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-6f78020d69bf59292630871951d8aae5a08a57ff56bd0ff16dac3f99b2f51352.css?body=1" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:42:22 -0700
+Started GET "/" for ::1 at 2020-08-09 21:43:57 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.1ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 85ms (Views: 84.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-2e9396ad08eac492ce58bac1d9cef83df898a44e8daa013898ac52f5a4391ac7.css?body=1" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:43:57 -0700
+Started GET "/" for ::1 at 2020-08-09 21:44:30 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 79ms (Views: 78.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-96590817aabc1282fe4664cd4fdb1cde8890c17cdd3b1de89484591c645599e9.css?body=1" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:44:30 -0700
+Started GET "/" for ::1 at 2020-08-09 21:44:58 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 82ms (Views: 81.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-33319bda47cc6b0cb45ea82590dc771716f74110b0f1bea832aadab913c56345.css?body=1" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:44:58 -0700
+Started GET "/" for ::1 at 2020-08-09 21:45:28 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 79ms (Views: 78.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-3d2595bdc4b6371e490ba99d8c111fed949b4c16ae866367f67331eea1a5a6fa.css?body=1" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:45:28 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:45:29 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:45:29 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:45:29 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:45:29 -0700
+Started GET "/" for ::1 at 2020-08-09 21:45:50 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 77ms (Views: 76.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-559f70b4307e2fdf9d9f6fbb00eb9b90f323d460e8621f9597929d0b8663b331.css?body=1" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:45:50 -0700
+Started GET "/" for ::1 at 2020-08-09 21:46:20 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 77ms (Views: 76.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b405ed77a716ba869384989de92086e9fbae792c216096cdd7c412f26acbed5a.css?body=1" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:46:20 -0700
+Started GET "/" for ::1 at 2020-08-09 21:46:32 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 13ms (Views: 12.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:46:32 -0700
+Started GET "/" for ::1 at 2020-08-09 21:47:56 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 116ms (Views: 115.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-af73ba39499de734391c8fa358deb0d4d532cb2816e80d0aba3fb60ff97fb377.css?body=1" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:47:56 -0700
+Started GET "/" for ::1 at 2020-08-09 21:48:23 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 81ms (Views: 80.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-deda389aee042fed604b81a7103ea01ab8b345355fbfc9608630c930d7ffebd1.css?body=1" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:48:23 -0700
+Started GET "/" for ::1 at 2020-08-09 21:48:33 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 81ms (Views: 80.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b2ad25b68ad2780a82ad20d55414a21fd8113550f8ed9831d1f15d76642711ed.css?body=1" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:48:33 -0700
+Started GET "/" for ::1 at 2020-08-09 21:48:47 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 78ms (Views: 77.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-f5d5489308d2fb5522d0099bc21ea35d74f0c8ec35cede6c0877adeb7088ab8f.css?body=1" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:48:47 -0700
+Started GET "/" for ::1 at 2020-08-09 21:49:12 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 79ms (Views: 77.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c6c06e580aebe4011607ebbe2375a221177e7348c8a417aad2efb129fa54c611.css?body=1" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:49:12 -0700
+Started GET "/" for ::1 at 2020-08-09 21:49:21 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 77ms (Views: 77.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-652b782453cb70bc3218768de591d76b43abf8ba0d174dd56c36d88460a5c50b.css?body=1" for ::1 at 2020-08-09 21:49:21 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:49:21 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:49:21 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:49:21 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:49:21 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:49:21 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:49:21 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:49:21 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:49:21 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:49:21 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:49:22 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:49:22 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:49:22 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:49:22 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:49:22 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:49:22 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:49:22 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:49:22 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:49:22 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:49:22 -0700
+Started GET "/" for ::1 at 2020-08-09 21:49:31 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 85ms (Views: 84.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-416c51b3d0c8e5c1a695978d805473a18e594f80ea4b3dd1be1ab5e898f28ec3.css?body=1" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:49:31 -0700
+Started GET "/" for ::1 at 2020-08-09 21:50:06 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 75ms (Views: 74.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-6ba12e8026198b0ebf04569bd3ce582a582d68540285bdebfd0b03ee893c7c41.css?body=1" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 21:50:06 -0700
+Started GET "/" for ::1 at 2020-08-09 22:06:00 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 83ms (Views: 82.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-ca3b1193c02cead7544aaa7de703c91e4ae0a408616e9fe9a3ac47e1ebf74c61.css?body=1" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:06:00 -0700
+Started GET "/" for ::1 at 2020-08-09 22:06:28 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:06:28 -0700
+Started GET "/" for ::1 at 2020-08-09 22:08:13 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 82ms (Views: 81.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e6b3b8637571cdc149f1d6c05b714ded2eaa00e4641098b74b439f6632c7632e.css?body=1" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:08:13 -0700
+Started GET "/" for ::1 at 2020-08-09 22:09:35 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 85ms (Views: 83.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b08830e897fa2f2663d6568374734cbabfc5e8a2dc60395e6d65302162c4de06.css?body=1" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:09:35 -0700
+Started GET "/" for ::1 at 2020-08-09 22:10:06 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 87ms (Views: 86.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-1564cb37a072e709495c8b2431ef30b2a7fdbf15f71e1404df73b0c9527a1364.css?body=1" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:10:06 -0700
+Started GET "/" for ::1 at 2020-08-09 22:10:33 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 84ms (Views: 83.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b064628f0af74c6a41fcd78ec4cdc26c79c55ebaba92ab23d16d931346b0928d.css?body=1" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:10:33 -0700
+Started GET "/" for ::1 at 2020-08-09 22:11:10 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 80ms (Views: 79.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c86f5922b7581b898d0fd58a79b0a83feb44d810dcc11d967b7dfbb4a1ac6afe.css?body=1" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:11:10 -0700
+Started GET "/" for ::1 at 2020-08-09 22:11:52 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 83ms (Views: 82.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c54c718bcf63e6001c89c2148fad7832bcd65e2c1557a241e4982ca86b77d350.css?body=1" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:11:52 -0700
+Started GET "/" for ::1 at 2020-08-09 22:12:15 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 79ms (Views: 78.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-096bc28f5bcf0c1fb023e252e1f836007401ee26ad0a5b1d65b467d3465ccd32.css?body=1" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:12:15 -0700
+Started GET "/" for ::1 at 2020-08-09 22:12:34 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 17ms (Views: 16.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:12:34 -0700
+Started GET "/" for ::1 at 2020-08-09 22:12:55 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.1ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:12:56 -0700
+Started GET "/" for ::1 at 2020-08-09 22:13:15 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 13ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:13:15 -0700
+Started GET "/" for ::1 at 2020-08-09 22:21:49 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (8.8ms)
+Completed 200 OK in 127ms (Views: 126.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-833142b00fe535f3512a785f26fe1e9ed447a94882a010c1dbf22dd3c021026c.css?body=1" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/quiz.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:21:50 -0700
+Started GET "/" for ::1 at 2020-08-09 22:22:21 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 78ms (Views: 77.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c23d2446ac77e132fbef9b3e543fb060054f7a20f4ca264f2178bb3899206612.css?body=1" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/quiz.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:22:21 -0700
+Started GET "/" for ::1 at 2020-08-09 22:23:35 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 86ms (Views: 85.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-16eb7390deb7c466ff905a3cdaf043eef3fdd3386fa13cfc0e86bb99786ad773.css?body=1" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/quiz.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:23:35 -0700
+Started GET "/" for ::1 at 2020-08-09 22:24:21 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 82ms (Views: 81.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-d82a612cc6886cbec8d78d891166f2721cc8a9fc5361fcc6a00fb644506206dc.css?body=1" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/quiz.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:24:21 -0700
+Started GET "/" for ::1 at 2020-08-09 22:24:52 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 87ms (Views: 86.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-dd1dbbda415cf15f1f6f7105a396d47a15c2e53e00de3c7bd2dbda856e86c36e.css?body=1" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/quiz.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:24:52 -0700
+Started GET "/" for ::1 at 2020-08-09 22:25:49 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 90ms (Views: 89.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e2ab81e6e3b6c56d0e7ae48d8f8c7a8450d8102365214af820aaa70370ab3cec.css?body=1" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/quiz.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:25:49 -0700
+Started GET "/" for ::1 at 2020-08-09 22:26:16 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.8ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 117ms (Views: 116.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-7b13efe99db22e5e359f5335e3660fe2778cb4f575aba7d99d1ae24ab15357c9.css?body=1" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/quiz.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:26:16 -0700
+Started GET "/" for ::1 at 2020-08-09 22:26:59 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 94ms (Views: 93.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-5f8caad0e9c45b55604181ecb15b0bcb4dbfd31d9a3dd16fe1ff08ff40831f86.css?body=1" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/quiz.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:26:59 -0700
+Started GET "/" for ::1 at 2020-08-09 22:27:22 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.2ms)
+  Rendered shared/_masthead.html.erb (0.2ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.1ms)
+  Rendered shared/_main_content.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 91ms (Views: 90.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-ec783ecd427db8501c50e16c2958c5d5859f463d03e1bde0ba63215bfc03c00d.css?body=1" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/quiz.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:27:22 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:27:22 -0700
