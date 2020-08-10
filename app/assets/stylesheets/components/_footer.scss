@@ -13,6 +13,7 @@ a:hover{
 .footer-title{
     width: 185px;
     height: auto;
+    margin-top: 10px;
 }
 
 .footer-links{
@@ -26,13 +27,58 @@ a:hover{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    border-right: 1px solid $light-gray;
+}
+
+.footer-internal-links > div{
+    width: 200px;
+}
+
+.footer-internal-links > div > p, .footer-subscribe > p{
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+
+.footer-internal-links li{
+    font-size: 12px;
+    font-weight: lighter;
+    margin: 7px 0;
 }
 
 .footer-external-links{
     flex-grow: 1;
-    // padding-left: 100px;
+    width: 210px;
+    margin-left: 10px;
 }
 
+.footer-subscribe{
+    border-bottom: 1px solid $light-gray;
+    margin: 0 0 10px 10px;
+}
+
+.footer-subscribe-icons > li > a{
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 12px 0;
+}
+
+.fa{
+    margin-right: 5px;
+}
+
+.footer-subscribe-discount li, .footer-languages li{
+    font-size: 11px;
+    font-weight: lighter;
+    margin: 7px 0;
+}
+
+
+.footer-languages{
+    margin: 10px;
+}
 
 .signature{
     border-top: $light-gray solid 1px;
