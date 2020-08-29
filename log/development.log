@@ -6403,3 +6403,39 @@ Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-09 22:49:02 -0700
 Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-09 22:49:02 -0700
 Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-09 22:49:02 -0700
 Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-09 22:49:02 -0700
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from block (3 levels) in <class:Railtie> at /home/charsun/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/activerecord-5.0.7.2/lib/active_record/railtie.rb:113)
+Started GET "/" for ::1 at 2020-08-11 15:45:56 -0700
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from block (3 levels) in <class:Railtie> at /home/charsun/.rbenv/versions/2.5.8/lib/ruby/gems/2.5.0/gems/activerecord-5.0.7.2/lib/active_record/railtie.rb:113)
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.7ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.9ms)
+  Rendered static_pages/index.html.erb within layouts/application (52.1ms)
+Completed 200 OK in 692ms (Views: 673.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-cb83334e481a102a64744f01a5d54cb89cac6672146779dc2ff04f4358e618ab.css?body=1" for ::1 at 2020-08-11 15:45:57 -0700
+Started GET "/assets/TheOnionTimes.png" for ::1 at 2020-08-11 15:45:57 -0700
+Started GET "/assets/story-highlight1.png" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/story-highlight2.png" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/content-highlight2.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/story-highlight3.png" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/ad.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/content-highlight1.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/content-highlight3.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/quiz.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/opinion-highlight.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/opinion1.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/editor-pick-highlight.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/opinion2.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/opinion7.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/opinion4.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/opinion3.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/opinion6.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/opinion5.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/editor-pick1.jpg" for ::1 at 2020-08-11 15:45:58 -0700
+Started GET "/assets/editor-pick2.jpg" for ::1 at 2020-08-11 15:45:58 -0700
